@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>PrayerTimeWidget</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.ghalebaldoboni.pock.prayertime</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>PrayerTimeWidget</string>
+	<key>CFBundleDisplayName</key>
+	<string>وقت الصلاة</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.15</string>
+	<key>NSPrincipalClass</key>
+	<string>PrayerTimeWidget.PrayerTimeWidget</string>
+	<key>PKWidgetAuthor</key>
+	<string>Ghaleb Aldoboni</string>
+	<key>PKWidgetPreferenceClass</key>
+	<string>PrayerTimeWidget.PrayerTimeWidgetPreferences</string>
+	<key>NSLocationUsageDescription</key>
+	<string>PrayerTimeWidget uses your approximate location to request accurate prayer times from AlAdhan.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>PrayerTimeWidget uses your approximate location to request accurate prayer times from AlAdhan.</string>
+</dict>
+</plist>
